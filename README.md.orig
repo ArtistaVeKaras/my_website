@@ -1,11 +1,14 @@
 # my_website
 
-
 updating changes locally
 Reaplacing this with something else on the readme file !!...
 creating a branch called develop
-adding more changes to create conflit ....
+creating a branch called develop
+creating a branch called develop
 <<<<<<< HEAD
-///
+Adding this line
 =======
->>>>>>> 5457aca5fe0bc27adf5bfcb5fa62ad657b755068
+Adding a new line
+Adding the tenfh line
+Adding the elenth line
+>>>>>>> 8e0a8baddbf2724817a01b291382cca45203d693
